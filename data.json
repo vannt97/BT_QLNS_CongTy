@@ -1,0 +1,8 @@
+[
+  {"maSo": 2, "hoTen":"kieu", "soDt": 456464, "soNgayLamViec": 30,"chucVu": "TruongPhong","luong1Ngay": 200 , "dsNhanVien": null  },
+  {"maSo": 3, "hoTen":"Ba", "soDt": 456464, "soNgayLamViec": 30,"chucVu": "TruongPhong","luong1Ngay": 200  , "dsNhanVien": null},
+  {"maSo": 4, "hoTen":"Vinh", "soDt": 456464, "soNgayLamViec": 30,"chucVu": "NhanVien","luong1Ngay": 100 , "truongPhong": null },
+  {"maSo": 5, "hoTen":"Von", "soDt": 456464, "soNgayLamViec": 30,"chucVu": "NhanVien","luong1Ngay": 100 ,"truongPhong": null },
+  {"maSo": 1, "hoTen":"Van", "soDt": 456464, "soNgayLamViec": 30,"chucVu": "GiamDoc","luong1Ngay": 300 , "coPhan": 50 },
+  {"maSo": 6, "hoTen":"Duc", "soDt": 456464, "soNgayLamViec": 30,"chucVu": "GiamDoc","luong1Ngay": 300 , "coPhan": 20 }
+]
